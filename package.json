@@ -1,0 +1,10 @@
+{
+  "name": "tableau-api",
+  "version": "2.2.2",
+  "description": "Tableau JavaScript API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winclap/tableau-api.git"
+  }
+}

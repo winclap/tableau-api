@@ -9728,4 +9728,4 @@ tab._ApiBootstrap.initialize();
 window.tableau._apiLoaded = true;
 })();
 
-export default window.tableau;
+module.exports = window.tableau;
